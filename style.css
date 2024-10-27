@@ -47,3 +47,9 @@
 .cardColCls{
     margin-top: 80px !important;
 }
+.cardBlueCls{
+    width: 40px; 
+    text-align: center; 
+    margin-top: -55px; 
+    margin-left: 200px;
+}
