@@ -21,9 +21,9 @@
     left: 21% !important;
     right: 15% !important;
 }
-.EveryMomCommon{
+/* .EveryMomCommon{
     width: 50%;
-}
+} */
 .giftCls{
     width: 210px;
     top: 55px;
@@ -31,4 +31,19 @@
 }
 .giftBluCls{
     width: 10px;
+}
+.cardParaTopCls{
+    margin-bottom: 1px !important;
+}
+.cardParaCls{
+    margin: 1px !important;
+}
+.choosePlanCls{
+    background-color: #f8eff5;
+    width: 150px; 
+    height: 30px; 
+    text-align: center
+}
+.cardColCls{
+    margin-top: 80px !important;
 }
